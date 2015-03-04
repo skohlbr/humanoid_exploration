@@ -4,3 +4,6 @@
 - git:
     uri: https://github.com/tu-darmstadt-ros-pkg/hector_nist_arenas_gazebo.git
     local-name: src/hector_nist_arenas_gazebo
+- git:
+    uri: https://github.com/skohlbr/humanoid_exploration.git
+    local-name: src/humanoid_exploration
