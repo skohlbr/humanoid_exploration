@@ -1,6 +1,6 @@
 - git:
     uri: https://github.com/tu-darmstadt-ros-pkg/hector_navigation.git
-    local-name: hector_navigation
+    local-name: src/hector_navigation
 - git:
     uri: https://github.com/tu-darmstadt-ros-pkg/hector_nist_arenas_gazebo.git
-    local-name: hector_nist_arenas_gazebo
+    local-name: src/hector_nist_arenas_gazebo
